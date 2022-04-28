@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-clousure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/curso-scope-clousure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platzi/curso-scope-clousure/issues"
+  },
+  "homepage": "https://github.com/platzi/curso-scope-clousure#readme"
+}
